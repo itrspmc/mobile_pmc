@@ -1,0 +1,10 @@
+
+.DS_Store
+node_modules
+platforms
+plugins
+package-lock.json
+package.json
+.gradle
+apambarabai.*
+build.json
